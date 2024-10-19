@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">81_Lifecycle</string>
+    <string name="input_weight">Введите вес (кг)</string>
+    <string name="input_height">Введите рост (см)</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="index_weight_body">Индекс массы тела</string>
+    <string name="return_">Вернуться</string>
+</resources>
